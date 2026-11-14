@@ -1,0 +1,76 @@
+{
+  "type": "FeatureCollection",
+  "name": "Jezero_CRISM_Mineral_Deposits",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "mineral": "Fe/Mg Smectite Clay",
+        "relevance": "High priority biosignature preservation environment",
+        "crism_obs_id": "FRT000047A3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.38,
+              18.42
+            ],
+            [
+              77.42,
+              18.42
+            ],
+            [
+              77.42,
+              18.45
+            ],
+            [
+              77.38,
+              18.45
+            ],
+            [
+              77.38,
+              18.42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "mineral": "Magnesite / Carbonates",
+        "relevance": "Ancient lacustrine shoreline indicator",
+        "crism_obs_id": "HRL000040C7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.43,
+              18.43
+            ],
+            [
+              77.46,
+              18.43
+            ],
+            [
+              77.46,
+              18.47
+            ],
+            [
+              77.43,
+              18.47
+            ],
+            [
+              77.43,
+              18.43
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

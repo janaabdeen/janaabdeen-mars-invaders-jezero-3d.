@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "name": "Jezero_Crater_POIs_Mars_Invaders",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perseverance Landing Site (Octavia E. Butler Landing)",
+        "type": "Landing Site",
+        "elevation_m": -2570,
+        "description": "Mars 2020 Perseverance rover landing location in Jezero Crater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4508,
+          18.4447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jezero Paleolake Delta Deposit",
+        "type": "Geological Landmark",
+        "elevation_m": -2450,
+        "description": "Ancient river delta fan with rich clay mineral deposits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.405,
+          18.438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jezero Crater Western Rim",
+        "type": "Topographic Hazard",
+        "elevation_m": -1800,
+        "description": "Steep slope boundary separating crater floor from highlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.32,
+          18.46
+        ]
+      }
+    }
+  ]
+}

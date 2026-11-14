@@ -1,0 +1,9 @@
+{
+  "bbox": { "west": 77.25, "south": 18.38, "east": 77.55, "north": 18.52 },
+  "dtmMaxWidth": 2048,
+  "orthoMaxWidth": 4096,
+  "radius": 3396190,
+  "projection": "auto",
+  "lon0": 0, "lat0": 0, "latTs": 0,
+  "elevFallback": [-2700, -1800]
+}
